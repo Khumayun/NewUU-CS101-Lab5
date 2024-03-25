@@ -53,5 +53,11 @@ int main() {
 
     cout << "PROBLEM 22\n";
 
+    cout << "PROBLEM 23\n";
+
+    cout << "PROBLEM 24\n";
+
+    cout << "PROBLEM 25\n";
+
     return 0;
 }
